@@ -1,0 +1,37 @@
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\bin\Debug\VKVotes.exe.config
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\bin\Debug\VKVotes.exe
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\bin\Debug\VKVotes.pdb
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\bin\Debug\VKVotes.xml
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\obj\Debug\VKVotes.VKVotes.resources
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\obj\Debug\VKVotes.Resources.resources
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\obj\Debug\VKVotes.vbproj.GenerateResource.Cache
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\obj\Debug\VKVotes.exe
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\obj\Debug\VKVotes.xml
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\obj\Debug\VKVotes.pdb
+c:\users\egor\documents\visual studio 2013\Projects\VKVotes\VKVotes\obj\Debug\VKVotes.Form2.resources
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\bin\Debug\VKVotes.exe.config
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.exe
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.xml
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.pdb
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\bin\Debug\VKVotes.exe
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\bin\Debug\VKVotes.pdb
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\bin\Debug\VKVotes.xml
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.vbprojResolveAssemblyReference.cache
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.VKVotes.resources
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.Resources.resources
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.vbproj.GenerateResource.Cache
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.Help.resources
+C:\Users\Egor Gunko\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.Loading.resources
+E:\Documents\Visual Studio 2015\Projects\VKVotes\bin\Debug\VKVotes.exe.config
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.exe
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.xml
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.pdb
+E:\Documents\Visual Studio 2015\Projects\VKVotes\bin\Debug\VKVotes.exe
+E:\Documents\Visual Studio 2015\Projects\VKVotes\bin\Debug\VKVotes.pdb
+E:\Documents\Visual Studio 2015\Projects\VKVotes\bin\Debug\VKVotes.xml
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.vbprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.Help.resources
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.Loading.resources
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.VKVotes.resources
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Debug\VKVotes.vbproj.GenerateResource.Cache

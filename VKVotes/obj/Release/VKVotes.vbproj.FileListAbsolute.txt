@@ -1,0 +1,13 @@
+E:\Documents\Visual Studio 2015\Projects\VKVotes\bin\Release\VKVotes.exe.config
+E:\Documents\Visual Studio 2015\Projects\VKVotes\bin\Release\VKVotes.exe
+E:\Documents\Visual Studio 2015\Projects\VKVotes\bin\Release\VKVotes.pdb
+E:\Documents\Visual Studio 2015\Projects\VKVotes\bin\Release\VKVotes.xml
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Release\VKVotes.vbprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Release\VKVotes.Help.resources
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Release\VKVotes.Loading.resources
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Release\VKVotes.VKVotes.resources
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Release\VKVotes.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Release\VKVotes.vbproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Release\VKVotes.exe
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Release\VKVotes.xml
+E:\Documents\Visual Studio 2015\Projects\VKVotes\obj\Release\VKVotes.pdb
